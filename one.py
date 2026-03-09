@@ -4,3 +4,4 @@ print(new_user)
 
 print(len(username))
 print(username.upper())
+print("hi")
